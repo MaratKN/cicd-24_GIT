@@ -74,6 +74,8 @@
 
 Ваш граф комитов должен выглядеть аналогично скриншоту:
 
+![alt text](https://user-images.githubusercontent.com/77622076/256180841-e73589cf-7e97-40e5-ac01-d1d55376f1b9.png)
+
 Ответ: https://github.com/MaratKN/for_cicd-24_GIT/network
 
 ---
